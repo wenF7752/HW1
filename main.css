@@ -30,6 +30,7 @@ body {
 
 .form-container {
 	width: 80%;
+	max-width: 60rem;
 	background-color: var(--color-white);
 	padding: 2rem;
 	border-radius: 5px;
